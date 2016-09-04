@@ -1,0 +1,13 @@
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+*.gcx
+
+.DS_Store*
+
+nb2toc.py
+.ipynb*
